@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/LoadingProductItemsUsingAPIFromValantis/static/css/main.d517e6cf.css",
+    "main.js": "/LoadingProductItemsUsingAPIFromValantis/static/js/main.d0bd7384.js",
+    "static/media/Montserrat-Regular.ttf": "/LoadingProductItemsUsingAPIFromValantis/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-Bold.ttf": "/LoadingProductItemsUsingAPIFromValantis/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Quicksand-VariableFont_wght.ttf": "/LoadingProductItemsUsingAPIFromValantis/static/media/Quicksand-VariableFont_wght.7dd2a729c26ea6122bbc.ttf",
+    "static/media/Quicksand-Bold.ttf": "/LoadingProductItemsUsingAPIFromValantis/static/media/Quicksand-Bold.4901d4edce3cd713d00d.ttf",
+    "index.html": "/LoadingProductItemsUsingAPIFromValantis/index.html",
+    "main.d517e6cf.css.map": "/LoadingProductItemsUsingAPIFromValantis/static/css/main.d517e6cf.css.map",
+    "main.d0bd7384.js.map": "/LoadingProductItemsUsingAPIFromValantis/static/js/main.d0bd7384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d517e6cf.css",
+    "static/js/main.d0bd7384.js"
+  ]
+}
